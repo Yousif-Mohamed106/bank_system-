@@ -1,0 +1,9 @@
+{
+    "101": {"name": "Ali", "age": 20, "password": "1234","sex" : "M","mobile": 5146758681,"balance": 0
+
+    },
+    "102": {"name": "Omar", "age": 21, "password": "5678", "balance": 0
+
+    },
+    "103": {"name": "Yousif", "age": 19, "password": "9999", "balance" : 4 }
+}
